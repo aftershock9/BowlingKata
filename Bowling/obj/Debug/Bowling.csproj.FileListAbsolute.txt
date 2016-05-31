@@ -1,0 +1,5 @@
+C:\Users\dev2\Downloads\SpecFlow-Examples-master\BowlingKata\BowlingKata-MsTest\Bowling\bin\Debug\Bowling.dll
+C:\Users\dev2\Downloads\SpecFlow-Examples-master\BowlingKata\BowlingKata-MsTest\Bowling\bin\Debug\Bowling.pdb
+C:\Users\dev2\Downloads\SpecFlow-Examples-master\BowlingKata\BowlingKata-MsTest\Bowling\obj\Debug\Bowling.csprojResolveAssemblyReference.cache
+C:\Users\dev2\Downloads\SpecFlow-Examples-master\BowlingKata\BowlingKata-MsTest\Bowling\obj\Debug\Bowling.dll
+C:\Users\dev2\Downloads\SpecFlow-Examples-master\BowlingKata\BowlingKata-MsTest\Bowling\obj\Debug\Bowling.pdb

@@ -1,0 +1,10 @@
+C:\Users\dev2\Downloads\SpecFlow-Examples-master\BowlingKata\BowlingKata-MsTest\Bowling.SpecFlow\bin\Debug\Bowling.SpecFlow.dll.config
+C:\Users\dev2\Downloads\SpecFlow-Examples-master\BowlingKata\BowlingKata-MsTest\Bowling.SpecFlow\bin\Debug\Bowling.SpecFlow.dll
+C:\Users\dev2\Downloads\SpecFlow-Examples-master\BowlingKata\BowlingKata-MsTest\Bowling.SpecFlow\bin\Debug\Bowling.SpecFlow.pdb
+C:\Users\dev2\Downloads\SpecFlow-Examples-master\BowlingKata\BowlingKata-MsTest\Bowling.SpecFlow\bin\Debug\Bowling.dll
+C:\Users\dev2\Downloads\SpecFlow-Examples-master\BowlingKata\BowlingKata-MsTest\Bowling.SpecFlow\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\dev2\Downloads\SpecFlow-Examples-master\BowlingKata\BowlingKata-MsTest\Bowling.SpecFlow\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\dev2\Downloads\SpecFlow-Examples-master\BowlingKata\BowlingKata-MsTest\Bowling.SpecFlow\bin\Debug\Bowling.pdb
+C:\Users\dev2\Downloads\SpecFlow-Examples-master\BowlingKata\BowlingKata-MsTest\Bowling.SpecFlow\obj\Debug\Bowling.SpecFlow.csprojResolveAssemblyReference.cache
+C:\Users\dev2\Downloads\SpecFlow-Examples-master\BowlingKata\BowlingKata-MsTest\Bowling.SpecFlow\obj\Debug\Bowling.SpecFlow.dll
+C:\Users\dev2\Downloads\SpecFlow-Examples-master\BowlingKata\BowlingKata-MsTest\Bowling.SpecFlow\obj\Debug\Bowling.SpecFlow.pdb
